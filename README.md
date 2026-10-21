@@ -39,7 +39,6 @@
 
 | Projet | Description | Technologies |
 | :--- | :--- | :--- |
-| 🌌 **Projet Stargate** | Application de gestion et simulation basée sur l'univers Stargate. | C# / SQL |
 | 🃏 **Projet Inscryption** | Reconstitution / adaptation des mécaniques du jeu Inscryption avec modélisation UML complète. | Java / PlantUML |
 
 ---
