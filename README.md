@@ -41,7 +41,7 @@
 | :--- | :--- | :--- |
 | 🃏 **Projet Inscryption** | Reconstitution / adaptation des mécaniques du jeu Inscryption avec modélisation UML complète. | Java / PlantUML |
 | 🃏 **Projet CAN** | Création / Site après vente en C#. 
-| C# HTML5 CSS3 JavaScript |
+| C# / HTML5 / CSS3 / JavaScript |
 
 ---
 
